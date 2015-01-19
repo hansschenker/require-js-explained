@@ -3,9 +3,8 @@
 
 In this course you’ll learn all about the excellent script and module loader, RequireJS, which is essential when creating complex JavaScript applications composed of many parts. You’ll start by understanding the basics of working with modules and plugins, and then move on to more advanced topics like testing AMD modules, resolving circular dependencies, and using the r.js optimizer. And you’ll get to put it all into practice by building your own app.
 
-Source files for the Tuts+ course: [RequireJS Explained](https://code.tutsplus.com/courses)
+Source files for the Tuts+ course: [RequireJS Explained](https://code.tutsplus.com/courses/require-js-explained)
 
-**Available on Tuts+ January, 2015**
 
 ### Usage Notes
 
